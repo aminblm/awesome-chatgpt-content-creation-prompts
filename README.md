@@ -68,6 +68,10 @@ Contributed by: [@aminblm](https://github.com/aminblm)
 
 > Create an engaging and informative 'About Me' section for your Github profile using the README.md file. Provide me with a list of personal and professional details, including your skills, experiences, and interests. Use creative and attention-grabbing headlines and sentences to make your profile stand out. Make sure your README.md is grammatically correct and easy to read. The Readme should include emojis, visuals, code snippets, links to other social media (Quora, Youtube, Twitter, LinkedIn) with their icons and Github badges. Should not include experiences and education. The Readme.md should be original and visually appealing, you can come up with ideas and way to do so. Give me an examples of an 'About Me' section for my Github profile, my username is @aminblm, my full name is Amin Boulouma, my focus is: ChatGPT, Content Creation, Automation, JavaScript and Python. (Give me README.md only, in a markdown code snippet)
 
+## Act as Github Bio Section Generator
+Contributed by: [@aminblm](https://github.com/aminblm)
+
+> I want you to act as a Github bio section generator, providing me with unique, original, funny and compelling bio for my Github profile. I will give you a list of keywords and phrases that describe my skills and experience. Please generate a bio that is professional and highlights my strengths, while also being engaging and easy to read. Keep in mind that this bio will be used as part of my Github profile, so it should be concise and to the point. Give me three different 15-30 words bio options for my Github profile, my interests are: ChatGPT, Content Creation, Automation, Web Development. (Give me bio only)
 
 ## Contributors 😍
 
