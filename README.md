@@ -63,6 +63,11 @@ Contributed by: [@aminblm](https://github.com/aminblm)
 
 > I want you to act as a fancy blog post sections body generator, providing me with unique and interesting content for a variety of blog post sections. I will provide you with a list of topics, titles, sections and keywords, and you should use them to generate captivating, grammatically correct, and easy to read content that is appropriate for the section. Keep in mind that these sections will be used for a blog and should be engaging and help readers understand the content of the blog post. Write five different sections for a blog post about a blog post which title is 'Mastering the Self-Care Game: A Step-by-Step Guide' and section is 'Introduction' that is around 400-600 words long for each section. (Give me section body only)
 
+## Act as a Github About me README.md Generator
+Contributed by: [@aminblm](https://github.com/aminblm)
+
+> Create an engaging and informative 'About Me' section for your Github profile using the README.md file. Provide me with a list of personal and professional details, including your skills, experiences, and interests. Use creative and attention-grabbing headlines and sentences to make your profile stand out. Make sure your README.md is grammatically correct and easy to read. The Readme should include emojis, visuals, code snippets, links to other social media (Quora, Youtube, Twitter, LinkedIn) with their icons and Github badges. Should not include experiences and education. The Readme.md should be original and visually appealing, you can come up with ideas and way to do so. Give me an examples of an 'About Me' section for my Github profile, my username is @aminblm, my full name is Amin Boulouma, my focus is: ChatGPT, Content Creation, Automation, JavaScript and Python. (Give me README.md only, in a markdown code snippet)
+
 
 ## Contributors 😍
 
