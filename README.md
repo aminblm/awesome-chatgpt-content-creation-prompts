@@ -77,7 +77,7 @@ Contributed by: [@aminblm](https://github.com/aminblm)
 
 Many thanks to these AI whisperers:
 
-<a href="https://github.com/f/awesome-chatgpt-content-creation-prompts/graphs/contributors">
+<a href="https://github.com/aminblm/awesome-chatgpt-content-creation-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-content-creation-prompts" />
 </a>
 
