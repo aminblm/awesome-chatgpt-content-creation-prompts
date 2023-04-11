@@ -4,6 +4,8 @@
 
 Welcome to the "Awesome ChatGPT Content Creation Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
+Follow us on PromptBase for the best prompts out there [PromptBroker](https://promptbase.com/profile/promptbroker)
+
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own content creation prompts](https://github.com/aminblm/awesome-chatgpt-content-creation-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
